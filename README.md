@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @avmeeen
 - 👀 I’m interested in learning more about DevOps and Machine Learning
-- 🌱 I’m currently learning Amazon Web Services
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 🌱 I’m currently learning Docker.
+- 💞️ I’m looking to collaborate on some interesting ML Projects
 - 📫 my email: avmeen2004@gmail.com
 
 <!---
